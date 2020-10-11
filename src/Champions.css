@@ -1,0 +1,44 @@
+.lol-container {
+    display: flex;
+    justify-content: center;
+}
+
+.champion-row {
+    margin-top: 2rem;
+    border-bottom: 1px solid #d7d7d7;
+}
+
+.champion {
+    display: flex;
+    align-items: center;
+    padding-right: 24px;
+    min-width: 300px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.champion-name {
+    font-size: 1.5rem !important;
+}
+
+.champion-alias {
+    font-size: 1rem !important;
+    margin-right: 2rem;
+}
+
+.champion h1 {
+    font-size: 40px;
+    width: 350px;
+}
+
+.champion img {
+    height: 130px;
+    width: 130px;
+    margin-right: 15px;
+}
+
+.champion-data {
+    font-size: 1.1rem !important;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
